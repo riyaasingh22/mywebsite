@@ -1,0 +1,18 @@
+#menu{
+    background:pink;
+    color:whitesmoke;
+}
+body{
+    background-image: url("https://image.freepik.com/free-vector/gradient-wavy-purple-background_23-2149108582.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+}
+#website{
+    text-align:center;
+    text-transform: capitalize;
+    line-height: 2px;
+    font-family: 'fantasy';
+    font-size: 50px;
+    color: whitesmoke;
+}
