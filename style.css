@@ -6,13 +6,14 @@ body{
     background-image: url("https://image.freepik.com/free-vector/gradient-wavy-purple-background_23-2149108582.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
+    
 }
 #website{
     text-align:center;
     text-transform: capitalize;
     line-height: 2px;
-    font-family: 'fantasy';
+    font-family: 'cursive';
     font-size: 50px;
     color: whitesmoke;
 }
